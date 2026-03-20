@@ -48,7 +48,7 @@ During rain:
   - Cannot deliver due to unsafe conditions.
 - Both cases are treated as valid income loss.
 
----
+
 
 ### Partial Income Protection
 
@@ -58,7 +58,7 @@ Loss = Expected Income – Actual Income
 
 - Ensures fair and realistic compensation.
 
----
+
 
 ### Adaptive Income Protection
 
@@ -69,7 +69,6 @@ Loss = Expected Income – Actual Income
   - Income loss
 - Higher loss leads to higher payout.
 
----
 
 ### Fraud Detection Layer
 
@@ -81,7 +80,6 @@ Loss = Expected Income – Actual Income
   - Rider reliability score
 - Uses a multi-signal decision system.
 
----
 
 ### Rider Risk Score
 
@@ -93,7 +91,6 @@ Loss = Expected Income – Actual Income
 
 ---
 
-## System Workflow
 ## System Workflow
 
 ### High-Level Flow
@@ -188,7 +185,7 @@ Reasons:
 
 ## Development Plan
 
-### Phase 1 (Completed)
+### Phase 1 
 - Problem understanding
 - Persona analysis
 - System design
