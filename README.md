@@ -1,4 +1,4 @@
-# RainGuard AI — Predictive Adaptive Income Protection for Kerala Delivery Riders
+# RainGuard AI — Predictive Adaptive Income Protection for Delivery Riders
 
 ---
 
